@@ -1,3 +1,3 @@
-- [ ] Get rid of all mentions of the xbox sdk & friends.
+- [ ] Replace/reimplement xbox sdk & friends.
 - [ ] Get a bare-bones PC port going.
 - [ ] Port to other devices.
